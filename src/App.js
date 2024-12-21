@@ -6,6 +6,7 @@ import Cart from './components/Cart/Cart'
 function App() {
   return (
     <CartProvider>
+      "Hola"
       <Cart></Cart>
       <Header />
       <main>
